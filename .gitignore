@@ -1,0 +1,11 @@
+.gradle
+.idea
+.pyenv
+.vscode
+.venv
+build
+out
+.attach_pid*
+*.iml
+*.iws
+*.ipr
